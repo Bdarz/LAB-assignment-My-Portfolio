@@ -14,15 +14,16 @@ The goal of this project is to:
  4. Showcase personal informations and achievements in a formal format.
 
 👥 Target Audience
-<br>
+<hr>
 This portfolio is designed for potential employers or recruiters.
 
 🧱 Technologies Used
-<br>
+<hr>
  1. HTML5
  2. CSS3 (Flexbox, Box Models, Media Queries, Semantic Tags)
 
 📐 Layout & Sections
+<hr>
 This website includes the following sections:
  1. Header - Name, tagline, role, and portrait
  2. About Me - Short bio
@@ -32,12 +33,14 @@ This website includes the following sections:
  6. Footer - Copyright and basic navigation
 
 📱 Responsiveness
+<hr>
 This site is optimized for:
  1. Desktop
  2. Phone
  3. Tablet
 
 📄 Notes
+<hr>
  1. I used ChatGPT to help me with creating a responsive page. But I modified the code to make sure I used the correct code.
  2. I designed the layout and design using Canva
  3. I wrote everything manually
