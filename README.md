@@ -8,10 +8,10 @@ This project is a single-page, responsive portfolio website created for a lab as
 🎯 Goals and Functions
 <hr>
 The goal of this project is to:
- 1. Create a portfolio that could be used for job applications.
- 2. Improve and apply my HTML and CSS skills.
- 3. Improve responsive web design making skills.
- 4. Showcase personal informations and achievements in a formal format.
+1. Create a portfolio that could be used for job applications.
+2. Improve and apply my HTML and CSS skills.
+3. Improve responsive web design making skills.
+4. Showcase personal informations and achievements in a formal format.
 
 👥 Target Audience
 <hr>
@@ -19,8 +19,8 @@ This portfolio is designed for potential employers or recruiters.
 
 🧱 Technologies Used
 <hr>
- 1. HTML5
- 2. CSS3 (Flexbox, Box Models, Media Queries, Semantic Tags)
+1. HTML5
+2. CSS3 (Flexbox, Box Models, Media Queries, Semantic Tags)
 
 📐 Layout & Sections
 <hr>
