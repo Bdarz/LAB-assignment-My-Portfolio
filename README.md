@@ -51,7 +51,7 @@ This site is optimized for:
 3. Tablet
 
 ## 📄 Notes
-<hr>
+
 1. I used ChatGPT to help me with creating a responsive page. But I modified the code to make sure I used the correct code.
 2. I designed the layout and design using Canva
 3. I wrote everything manually
